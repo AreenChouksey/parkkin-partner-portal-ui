@@ -1,4 +1,7 @@
 
+import React from 'react';
+import './Index.css';
+
 const Index = () => {
   return (
     <div className="parking-partners-page">
